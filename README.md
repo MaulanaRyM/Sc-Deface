@@ -8,4 +8,4 @@ $pkg install git
 $pkg install python2
 ```
 
-*Enjoyyy slurr
+*Enjoyyy slurr*
